@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSDC23SaveToDB", "CSDC23SaveToDB\CSDC23SaveToDB.csproj", "{6E4B7060-E7D5-4B36-8599-FC4FA46CE994}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E4B7060-E7D5-4B36-8599-FC4FA46CE994}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E4B7060-E7D5-4B36-8599-FC4FA46CE994}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E4B7060-E7D5-4B36-8599-FC4FA46CE994}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E4B7060-E7D5-4B36-8599-FC4FA46CE994}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87585A0C-FBE4-4830-B0EE-F0C4932EB5C1}
+	EndGlobalSection
+EndGlobal
